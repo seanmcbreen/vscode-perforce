@@ -7,7 +7,7 @@
 [![VS Code marketplace button](http://vsmarketplacebadge.apphb.com/installs/slevesque.perforce.svg)](https://marketplace.visualstudio.com/items/slevesque.perforce)
 [![Gitter chat button](https://img.shields.io/gitter/room/stef-levesque/vscode-perforce.svg)](https://gitter.im/stef-levesque/vscode-perforce)
 
-Perforce integration for Visual Studio Code
+Perforce integration for Visual Studio Code.  Now using the SCM Provider API - resulting in a more integrated experience for Perforce in VS Code.
 
 ## Commands
 
